@@ -5,6 +5,10 @@ This project aims to develop a system using Large Language Models (LLMs) to accu
 
 ## Demo
 
+
+https://github.com/vandit98/Enterpret_assignment/assets/91458535/d83d202b-aaf2-48e6-b1de-08e048fa6a5f
+
+
 ## Project Structure
 ![Screenshot from 2024-06-29 20-38-54](https://github.com/vandit98/Enterpret_assignment/assets/91458535/ebc40fa7-0c3a-448f-b594-518854216cf6)
 
