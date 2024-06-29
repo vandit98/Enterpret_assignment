@@ -51,29 +51,34 @@ class ClaimIdentifier:
         indexed_messages_str = json.dumps(indexed_messages)
         
         claims_result = await self.process_message(indexed_messages_str)
-        return [index for index, is_claim in claims_result.items() if is_claim == 1], indexed_messages_str
+        return [index for index, is_claim in claims_result.items() if is_claim == 1]
 
     async def process_csv(self, input_csv: str, output_json: str):
         df = pd.read_csv(input_csv)
         
-        # Create or load existing JSON file
-        if os.path.exists(output_json):
-            with open(output_json, 'r') as f:
-                results = json.load(f)
-        else:
-            results = []
+        # Initialize results as an empty list
+        results = []
 
+        # Load existing JSON file if it exists and contains valid data
+        if os.path.exists(output_json):
+            try:
+                with open(output_json, 'r') as f:
+                    results = json.load(f)
+                    if not isinstance(results, list):
+                        results = []  # Reset if loaded data is not a list
+            except (json.JSONDecodeError, ValueError) as e:
+                print(f"Error loading JSON file: {e}")
+        
         for _, row in tqdm(df.iterrows(), total=len(df), desc="Processing Records"):
             record_id = row['ID']
             conversation = row['Conversation']
             metadata = row["Metadata"]
-            claim_indices,conversation_index = await self.identify_claims(conversation)
+            claim_indices = await self.identify_claims(conversation)
             
             result = {
                 "record_id": record_id,
                 "claim_indices": claim_indices,
                 "metadata": metadata,
-                "conversation_index": conversation_index
             }
             results.append(result)
             
