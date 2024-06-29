@@ -4,31 +4,6 @@
         "claim_indices": [
             "1"
         ],
-        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e0e5cedb-2da1-5476-bfef-366eebc71656', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T22:28:45Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Decreased Feedback Volume From Sources'}"
-    },
-    {
-        "record_id": "69949ac0-6280-5a97-be88-315985fe2cbc",
-        "claim_indices": [
-            "4",
-            "8",
-            "12",
-            "14",
-            "15"
-        ],
-        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/69949ac0-6280-5a97-be88-315985fe2cbc', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T20:57:40Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Schedule', 'Reasons': nan}"
-    },
-    {
-        "record_id": "7396e171-235d-5cd4-af82-7b8d4c70ce76",
-        "claim_indices": [
-            "2"
-        ],
-        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7396e171-235d-5cd4-af82-7b8d4c70ce76', 'Source': 'Salesforce - Opportunity', 'Type': 'RecordTypeSurvey', 'CreatedAt': '2024-01-12T20:57:28Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Feedback', 'Reasons': 'Issue With Low Volume, Issue With Feedback Going Unnoticed'}"
-    },
-    {
-        "record_id": "e0e5cedb-2da1-5476-bfef-366eebc71656",
-        "claim_indices": [
-            "1"
-        ],
         "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e0e5cedb-2da1-5476-bfef-366eebc71656', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T22:28:45Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Decreased Feedback Volume From Sources'}",
         "indexed_messages_str": "{\"1\": \"Agent: Mike McNasby jil It looks like the volume of feedback coming from Discord has dropped to zero. The channel for issues and bugs was the primary driver, just wanted to confirm if this was intentional?\", \"2\": \"\", \"3\": \"\"}"
     },

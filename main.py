@@ -5,9 +5,9 @@ from claim_identifier import ClaimIdentifier
 from preprocess import preprocess_csv
 
 async def main():
-    input_csv = "./enterpret.csv"
-    preprocessed_csv = "filtered_output.csv"
-    output_json = "claims_output.json"
+    input_csv = "./data//enterpret.csv"
+    preprocessed_csv = "./data/filtered_output.csv"
+    output_json = "./data/claims_output.json"
 
     try:
         # Preprocess the CSV
