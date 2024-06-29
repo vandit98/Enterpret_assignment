@@ -1,0 +1,766 @@
+[
+    {
+        "record_id": "e0e5cedb-2da1-5476-bfef-366eebc71656",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e0e5cedb-2da1-5476-bfef-366eebc71656', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T22:28:45Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Decreased Feedback Volume From Sources'}"
+    },
+    {
+        "record_id": "69949ac0-6280-5a97-be88-315985fe2cbc",
+        "claim_indices": [
+            "4",
+            "8",
+            "12",
+            "14",
+            "15"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/69949ac0-6280-5a97-be88-315985fe2cbc', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T20:57:40Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Schedule', 'Reasons': nan}"
+    },
+    {
+        "record_id": "7396e171-235d-5cd4-af82-7b8d4c70ce76",
+        "claim_indices": [
+            "2"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7396e171-235d-5cd4-af82-7b8d4c70ce76', 'Source': 'Salesforce - Opportunity', 'Type': 'RecordTypeSurvey', 'CreatedAt': '2024-01-12T20:57:28Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Feedback', 'Reasons': 'Issue With Low Volume, Issue With Feedback Going Unnoticed'}"
+    },
+    {
+        "record_id": "296c633c-51fc-5f63-94fd-ef7661407f00",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/296c633c-51fc-5f63-94fd-ef7661407f00', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T21:09:45Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "0decbe49-58fd-5a1d-8c84-fc7d203c0283",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/0decbe49-58fd-5a1d-8c84-fc7d203c0283', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T19:35:29Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "e84805e2-203b-5632-ad4d-360c03b62ba4",
+        "claim_indices": [
+            "1",
+            "2"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e84805e2-203b-5632-ad4d-360c03b62ba4', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T19:33:37Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "04cceacf-a9ec-5e41-8eef-b5b6b222f2c0",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/04cceacf-a9ec-5e41-8eef-b5b6b222f2c0', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T19:28:21Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': nan, 'Reasons': 'Help With Chorus Integration'}"
+    },
+    {
+        "record_id": "37436917-fa93-53ad-96d7-0d4a505a94a1",
+        "claim_indices": [
+            "1",
+            "5",
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/37436917-fa93-53ad-96d7-0d4a505a94a1', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T17:45:22Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': nan, 'Reasons': 'Help Understand Deleting Customer Data Through Api'}"
+    },
+    {
+        "record_id": "7905e78e-6100-5e73-92b3-ac88b1118221",
+        "claim_indices": [
+            "2",
+            "3",
+            "9"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7905e78e-6100-5e73-92b3-ac88b1118221', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T12:13:53Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Reporting, Reason', 'Reasons': nan}"
+    },
+    {
+        "record_id": "2229a40d-99f5-573e-a029-99aa0c50cd4c",
+        "claim_indices": [
+            "4"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/2229a40d-99f5-573e-a029-99aa0c50cd4c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-10T22:42:40Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Ai, Dashboard, Quantify, Summary', 'Reasons': 'Issue With Copy Summary To Clipboard Feature Not Working'}"
+    },
+    {
+        "record_id": "99a58dfa-1b35-56ed-8521-092d1b40ba26",
+        "claim_indices": [
+            "4"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/99a58dfa-1b35-56ed-8521-092d1b40ba26', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-10T18:12:54Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Csv, Data, Survey', 'Reasons': 'issue with csv import not updating all instances'}"
+    },
+    {
+        "record_id": "8ff0df1e-eb99-5492-9f9f-afb9c5f84a98",
+        "claim_indices": [
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/8ff0df1e-eb99-5492-9f9f-afb9c5f84a98', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-10T17:08:11Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "3bbb09d2-9d4b-5fdc-a82e-d683a4f99370",
+        "claim_indices": [
+            "1",
+            "4",
+            "5",
+            "6",
+            "8",
+            "10",
+            "11",
+            "15",
+            "17",
+            "19",
+            "21",
+            "22"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/3bbb09d2-9d4b-5fdc-a82e-d683a4f99370', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-10T16:48:54Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Chart, Dashboard, Filter, Summary', 'Reasons': nan}"
+    },
+    {
+        "record_id": "4b2c4003-f3f9-5ff3-a647-7487834318df",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/4b2c4003-f3f9-5ff3-a647-7487834318df', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-10T14:35:35Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Census Sync Feature'}"
+    },
+    {
+        "record_id": "7e75d288-a4c7-504b-bc3f-3d75c8375659",
+        "claim_indices": [
+            "1",
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7e75d288-a4c7-504b-bc3f-3d75c8375659', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-10T13:37:57Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Enterpret, Product Design, Reason', 'Reasons': 'Issue With System Generating Duplicate Reasons, Ability To Save Dashboard View'}"
+    },
+    {
+        "record_id": "68c98ed5-e4ce-520c-8130-ea702e577493",
+        "claim_indices": [
+            "3",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/68c98ed5-e4ce-520c-8130-ea702e577493', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-09T21:28:59Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Setting Up Reports'}"
+    },
+    {
+        "record_id": "b2f42987-3a2e-570a-a316-31b962df9ccc",
+        "claim_indices": [
+            "2",
+            "3",
+            "6",
+            "8",
+            "10",
+            "12",
+            "14",
+            "17"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/b2f42987-3a2e-570a-a316-31b962df9ccc', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-09T19:42:40Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Channel, Enterpret, Integration, Alerts', 'Reasons': 'Issue With Setting Up Reports, Issue With Notifications Feature Malfunction'}"
+    },
+    {
+        "record_id": "ea9bcda0-0a02-5cca-b939-7bb70ebb38d5",
+        "claim_indices": [
+            "2",
+            "4",
+            "9",
+            "11",
+            "13"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/ea9bcda0-0a02-5cca-b939-7bb70ebb38d5', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-09T15:02:59Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Email, Feedback, Data, Survey', 'Reasons': nan}"
+    },
+    {
+        "record_id": "eb033b72-fce7-588f-a1ce-06f961dd0383",
+        "claim_indices": [
+            "2",
+            "3",
+            "4"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/eb033b72-fce7-588f-a1ce-06f961dd0383', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-09T14:13:27Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "2191261d-68b2-5ddd-ab15-947cee00860c",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/2191261d-68b2-5ddd-ab15-947cee00860c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-09T14:13:03Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "07a7949c-1042-567d-9413-0b5b9def2ad6",
+        "claim_indices": [
+            "3",
+            "5",
+            "7",
+            "9",
+            "11",
+            "13"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/07a7949c-1042-567d-9413-0b5b9def2ad6', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T18:30:32Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Email, Enterpret, Customer, Data, Feedback', 'Reasons': nan}"
+    },
+    {
+        "record_id": "96834789-c28e-5229-8a3d-529e0b57ba80",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/96834789-c28e-5229-8a3d-529e0b57ba80', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T18:02:05Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "96975f3b-9868-5ae9-8627-a6e187c10f90",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/96975f3b-9868-5ae9-8627-a6e187c10f90', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T17:13:30Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "ac2239b0-e465-551d-9c3b-f33bd1e665e9",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/ac2239b0-e465-551d-9c3b-f33bd1e665e9', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T17:13:19Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "98dd1bef-000c-551f-b40f-28efc2a9fab9",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/98dd1bef-000c-551f-b40f-28efc2a9fab9', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T17:12:14Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "24a6412b-fd78-52a6-abec-634c33e385e1",
+        "claim_indices": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/24a6412b-fd78-52a6-abec-634c33e385e1', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T16:51:38Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "7d1b2c3f-b91b-5b18-b6e7-def622e5e405",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7d1b2c3f-b91b-5b18-b6e7-def622e5e405', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T16:07:23Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "2d6b3567-febd-5ec4-81f9-12f4e6e06319",
+        "claim_indices": [
+            "1",
+            "2",
+            "13",
+            "15",
+            "16",
+            "19"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/2d6b3567-febd-5ec4-81f9-12f4e6e06319', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T15:22:20Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Setting Up Reports'}"
+    },
+    {
+        "record_id": "dbe0147e-133d-5334-b69b-75e8bfa97f0b",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/dbe0147e-133d-5334-b69b-75e8bfa97f0b', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T15:17:04Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "fedcc33b-5dcb-53f5-95e3-8482454cb297",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/fedcc33b-5dcb-53f5-95e3-8482454cb297', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-08T14:25:02Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "78a49273-9f92-50be-979b-55d4a1203093",
+        "claim_indices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/78a49273-9f92-50be-979b-55d4a1203093', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-06T01:40:39Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Data, Enterpret', 'Reasons': 'Issue With Engineering Team Review Process, Help Process Feature Requests, Help With Bugs'}"
+    },
+    {
+        "record_id": "1b562877-5421-5847-b14d-015fe30db8f3",
+        "claim_indices": [
+            "3",
+            "5",
+            "9",
+            "17",
+            "19",
+            "25",
+            "27"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/1b562877-5421-5847-b14d-015fe30db8f3', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-05T15:36:50Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Customer, Enterpret', 'Reasons': 'Issue With Accessing Individual Accounts'}"
+    },
+    {
+        "record_id": "aa13a8a1-b623-5b5b-ad84-b321ec825c0c",
+        "claim_indices": [
+            "8"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/aa13a8a1-b623-5b5b-ad84-b321ec825c0c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-05T11:46:09Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Enterpret', 'Reasons': nan}"
+    },
+    {
+        "record_id": "5c69bee2-bca5-5f77-9dae-152f363c49c6",
+        "claim_indices": [
+            "2",
+            "5",
+            "9"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/5c69bee2-bca5-5f77-9dae-152f363c49c6', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-05T09:42:05Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "fa322524-1b6c-5951-8a82-3b1454b25865",
+        "claim_indices": [
+            "3",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/fa322524-1b6c-5951-8a82-3b1454b25865', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-05T01:29:17Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Enterpret, Product Design', 'Reasons': nan}"
+    },
+    {
+        "record_id": "0b30ccb8-5b41-52ab-8149-cbe5a04bfc99",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/0b30ccb8-5b41-52ab-8149-cbe5a04bfc99', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-05T01:27:38Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "e085b8f9-a526-5e39-838f-19fd95459c0d",
+        "claim_indices": [
+            "2"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e085b8f9-a526-5e39-838f-19fd95459c0d', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T19:37:53Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "7d7b1104-3fdc-5dde-af3f-590f29323cca",
+        "claim_indices": [
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7d7b1104-3fdc-5dde-af3f-590f29323cca', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T19:37:29Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "0fc0dd64-ac56-5f9e-b98d-ff4021873bab",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/0fc0dd64-ac56-5f9e-b98d-ff4021873bab', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T19:05:49Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "2b03d10b-1053-5512-947f-483d1b93cb46",
+        "claim_indices": [
+            "2",
+            "3",
+            "4"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/2b03d10b-1053-5512-947f-483d1b93cb46', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T17:49:13Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Feedback, Reason', 'Reasons': nan}"
+    },
+    {
+        "record_id": "51934d77-0e81-5c0b-b5ef-d46204e33ecb",
+        "claim_indices": [
+            "3",
+            "7",
+            "9"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/51934d77-0e81-5c0b-b5ef-d46204e33ecb', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T16:39:33Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Customer, Email, Integration', 'Reasons': 'Issue With Census Sync Feature'}"
+    },
+    {
+        "record_id": "500b027c-c4e2-5553-879a-f487a7ae2b60",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/500b027c-c4e2-5553-879a-f487a7ae2b60', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T16:05:18Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "ca09321f-19fb-5df8-bcac-cdd76f3dff94",
+        "claim_indices": [
+            "1",
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/ca09321f-19fb-5df8-bcac-cdd76f3dff94', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T14:57:18Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "d09f6f28-9191-5eb9-b68f-2983f47c801a",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/d09f6f28-9191-5eb9-b68f-2983f47c801a', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T13:55:39Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "2609cb23-f4a6-5d02-994f-a68617be4892",
+        "claim_indices": [
+            "5",
+            "7",
+            "9",
+            "11",
+            "12",
+            "15",
+            "16",
+            "17",
+            "20",
+            "21"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/2609cb23-f4a6-5d02-994f-a68617be4892', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T13:52:36Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Dashboard, Quantify, Reporting, Category, Data, Filter', 'Reasons': 'Issue With Discrepancy In Data'}"
+    },
+    {
+        "record_id": "b3a74be6-97e7-5ad1-abda-7b52d694fad4",
+        "claim_indices": [
+            "2",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/b3a74be6-97e7-5ad1-abda-7b52d694fad4', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T09:24:56Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "d3405f16-de38-5bd5-a1b4-8fc930a4cd18",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/d3405f16-de38-5bd5-a1b4-8fc930a4cd18', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-04T06:25:41Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "3165504f-b326-59ae-b810-eb93abc2ff2e",
+        "claim_indices": [
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/3165504f-b326-59ae-b810-eb93abc2ff2e', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-03T22:10:23Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Enterpret', 'Reasons': nan}"
+    },
+    {
+        "record_id": "6d13c38b-7c87-5379-88da-ac030a8f35c7",
+        "claim_indices": [
+            "2"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/6d13c38b-7c87-5379-88da-ac030a8f35c7', 'Source': 'Salesforce - Opportunity', 'Type': 'RecordTypeSurvey', 'CreatedAt': '2024-01-03T21:54:25Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Customer, Customer Contact, Intercom, Tickets', 'Reasons': 'Issue With Low Volume'}"
+    },
+    {
+        "record_id": "a71ff4b1-6791-5f58-abd6-0789871752b6",
+        "claim_indices": [
+            "2",
+            "8"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/a71ff4b1-6791-5f58-abd6-0789871752b6', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-03T17:53:45Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Data, Enterpret', 'Reasons': 'Help Import Snowflake Data Into Enterpret'}"
+    },
+    {
+        "record_id": "b099d1fd-a3d5-5c3e-92a5-0af619ebb74f",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/b099d1fd-a3d5-5c3e-92a5-0af619ebb74f', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-03T14:42:57Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "0b8bb71a-7a62-5cbf-b1a7-fadae2e32d78",
+        "claim_indices": [
+            "2",
+            "4"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/0b8bb71a-7a62-5cbf-b1a7-fadae2e32d78', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-03T03:29:57Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "f668b5a5-28f2-5b84-bb25-4787715a8c63",
+        "claim_indices": [
+            "1",
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/f668b5a5-28f2-5b84-bb25-4787715a8c63', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-03T01:31:48Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Enterpret, Feedback', 'Reasons': nan}"
+    },
+    {
+        "record_id": "31284d9f-ddec-5523-9888-8a8fc17e140d",
+        "claim_indices": [
+            "1",
+            "3",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/31284d9f-ddec-5523-9888-8a8fc17e140d', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-02T21:20:57Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Feedback, Product Design', 'Reasons': nan}"
+    },
+    {
+        "record_id": "052af4cf-4203-5cba-9d4d-ebcb4e91453a",
+        "claim_indices": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "10",
+            "12",
+            "14",
+            "18"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/052af4cf-4203-5cba-9d4d-ebcb4e91453a', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-02T17:42:24Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Label, Tags, Tickets, Admin', 'Reasons': 'Issue With Setting Up Reports'}"
+    },
+    {
+        "record_id": "5148dd50-ad6b-51fc-a626-994d58f4d27f",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/5148dd50-ad6b-51fc-a626-994d58f4d27f', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-02T17:02:05Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Reason', 'Reasons': nan}"
+    },
+    {
+        "record_id": "3c5dfb85-23bb-5cd6-bc75-f652802d3721",
+        "claim_indices": [
+            "1",
+            "2",
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/3c5dfb85-23bb-5cd6-bc75-f652802d3721', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-28T00:53:47Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "16802d7b-78a1-57d3-810c-a2bf9ed7f79d",
+        "claim_indices": [
+            "1",
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/16802d7b-78a1-57d3-810c-a2bf9ed7f79d', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-27T21:57:03Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "331753ce-d006-5868-9bc7-23906ff87e95",
+        "claim_indices": [
+            "4",
+            "5",
+            "6",
+            "9",
+            "10"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/331753ce-d006-5868-9bc7-23906ff87e95', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-27T19:41:35Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "08c35726-e063-5488-95f0-de3e2b2e15ab",
+        "claim_indices": [
+            "2"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/08c35726-e063-5488-95f0-de3e2b2e15ab', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-26T21:13:03Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "b32cc58a-7c33-5f0c-9136-75b059437ace",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/b32cc58a-7c33-5f0c-9136-75b059437ace', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-26T19:15:49Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "6ab228b2-f8e0-5686-9eb5-f63c84a3c59c",
+        "claim_indices": [
+            "1",
+            "5",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/6ab228b2-f8e0-5686-9eb5-f63c84a3c59c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-25T16:02:48Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Dashboard', 'Reasons': nan}"
+    },
+    {
+        "record_id": "661971f8-229d-5bde-b081-0919ac4ffec8",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/661971f8-229d-5bde-b081-0919ac4ffec8', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-25T08:02:43Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': 'Alerts, Chat', 'Reasons': nan}"
+    },
+    {
+        "record_id": "a94df2ee-efff-5de6-8818-f5e02a8f4e1f",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/a94df2ee-efff-5de6-8818-f5e02a8f4e1f', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-25T07:02:49Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "4c69668d-0bda-5306-a3d8-32bd1e61cb8d",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/4c69668d-0bda-5306-a3d8-32bd1e61cb8d', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-22T19:24:51Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "7274c19c-9d63-5a22-9fab-c4177631085f",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7274c19c-9d63-5a22-9fab-c4177631085f', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-22T19:17:11Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "38d55524-9263-5bbc-9a89-326469cc5ec4",
+        "claim_indices": [
+            "2",
+            "3",
+            "6"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/38d55524-9263-5bbc-9a89-326469cc5ec4', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-22T15:08:38Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Category, Feedback, Keyword', 'Reasons': 'Issue With Tracked Keyword Report Functionality, Ability To See Positive And Negative Aspects In Feedback'}"
+    },
+    {
+        "record_id": "dc6215a3-2e97-55a1-b455-d579638c59fc",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/dc6215a3-2e97-55a1-b455-d579638c59fc', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-22T15:02:35Z', 'Language': 'eng', 'Record Sentiment': 'POSITIVE', 'Tracked Keywords': nan, 'Reasons': ' Happy With Consistency Of Chatbot Responses, Praise For Side Menu Chat History Feature'}"
+    },
+    {
+        "record_id": "4ee1cb11-f7e4-557b-b46d-e6b365a9536e",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/4ee1cb11-f7e4-557b-b46d-e6b365a9536e', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-22T01:07:25Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "cf922daf-b6f6-595d-b49a-4a4586448aef",
+        "claim_indices": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "8"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/cf922daf-b6f6-595d-b49a-4a4586448aef', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-21T19:34:24Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "cd6134ca-246d-568b-9719-931af87f8d3c",
+        "claim_indices": [
+            "3",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/cd6134ca-246d-568b-9719-931af87f8d3c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-21T17:23:13Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Taxonomy', 'Reasons': 'Issue With Delayed Taxonomy Updates'}"
+    },
+    {
+        "record_id": "beaf0421-cd79-5c92-a785-189eb04d59c1",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/beaf0421-cd79-5c92-a785-189eb04d59c1', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-21T15:11:45Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "e46f5bea-4315-53fc-9def-a9f564d57430",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e46f5bea-4315-53fc-9def-a9f564d57430', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-21T02:12:14Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "6f366ccd-cdb0-5225-8179-9dc82977a997",
+        "claim_indices": [
+            "3",
+            "5"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/6f366ccd-cdb0-5225-8179-9dc82977a997', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-21T02:11:54Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Alerts', 'Reasons': 'Help Understand Alerts'}"
+    },
+    {
+        "record_id": "7e2a7d76-e778-5d95-8b33-4797dfe9c6ad",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7e2a7d76-e778-5d95-8b33-4797dfe9c6ad', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-21T02:11:17Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "18623d20-813f-529c-86df-3f3e5cd86af5",
+        "claim_indices": [
+            "1",
+            "3",
+            "9",
+            "11",
+            "15"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/18623d20-813f-529c-86df-3f3e5cd86af5', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-20T23:06:21Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Enterpret, Filter, Reason, Tags', 'Reasons': 'Ability To Come Up With Relevant Tags'}"
+    },
+    {
+        "record_id": "8d2e6c9c-76e3-5277-921b-13099e94e1f6",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/8d2e6c9c-76e3-5277-921b-13099e94e1f6', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-20T22:02:43Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Data, Email, Product Design', 'Reasons': 'Issue With Poor Data Quality Leading To Cancellation'}"
+    },
+    {
+        "record_id": "5ac59a15-dcfd-5c90-85b4-27d89d49ab3c",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/5ac59a15-dcfd-5c90-85b4-27d89d49ab3c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-20T22:02:42Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Customer, Data, Design, Feedback, Pricing, Product Design', 'Reasons': 'Issue With Data Quality, Unhappy With The Ui'}"
+    },
+    {
+        "record_id": "2352b883-d3cf-5a91-99a5-df04c25a0880",
+        "claim_indices": [
+            "1",
+            "3",
+            "5",
+            "6",
+            "8",
+            "10",
+            "12",
+            "13",
+            "15",
+            "17"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/2352b883-d3cf-5a91-99a5-df04c25a0880', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-20T21:03:03Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': 'Data, Integration, Roadmap, Enterpret', 'Reasons': nan}"
+    },
+    {
+        "record_id": "b7c93b67-76e9-59f4-b239-dc49fe5b7859",
+        "claim_indices": [
+            "2",
+            "6",
+            "9",
+            "10",
+            "11"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/b7c93b67-76e9-59f4-b239-dc49fe5b7859', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-20T19:13:13Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "204b489b-99ec-5783-917e-65d5d035b617",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/204b489b-99ec-5783-917e-65d5d035b617', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-03-20T19:08:30Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Reason, Summary', 'Reasons': nan}"
+    },
+    {
+        "record_id": "e560a265-0a86-56d5-8b6a-5dde68ddc3f1",
+        "claim_indices": [
+            "1",
+            "3",
+            "5",
+            "9",
+            "11"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e560a265-0a86-56d5-8b6a-5dde68ddc3f1', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-23T21:06:10Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Filter', 'Reasons': nan}"
+    },
+    {
+        "record_id": "b454a302-c40b-5efc-9978-edc6e89f79b0",
+        "claim_indices": [
+            "3",
+            "4",
+            "8",
+            "10",
+            "11"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/b454a302-c40b-5efc-9978-edc6e89f79b0', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-23T18:03:04Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Enterpret, Tickets', 'Reasons': nan}"
+    },
+    {
+        "record_id": "cb9e646f-96fc-571b-8c8b-b11ad5fa5d54",
+        "claim_indices": [
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/cb9e646f-96fc-571b-8c8b-b11ad5fa5d54', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-23T05:20:14Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Chat, Reporting, Wisdom', 'Reasons': nan}"
+    },
+    {
+        "record_id": "46c1bba0-0204-5ba1-a8d5-efafafa10dc4",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/46c1bba0-0204-5ba1-a8d5-efafafa10dc4', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-23T01:36:46Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Alerts', 'Reasons': nan}"
+    },
+    {
+        "record_id": "371e1fb9-b6ab-5d44-92aa-44509bc7e458",
+        "claim_indices": [
+            "5",
+            "6"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/371e1fb9-b6ab-5d44-92aa-44509bc7e458', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-22T20:37:57Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Reporting, Wisdom', 'Reasons': nan}"
+    },
+    {
+        "record_id": "1b247a73-e246-5d32-bc9b-3ce4dfe04e6e",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/1b247a73-e246-5d32-bc9b-3ce4dfe04e6e', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-22T16:06:46Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': 'Alerts, Email', 'Reasons': nan}"
+    },
+    {
+        "record_id": "72627e85-c131-5b61-90da-3de3a05f1884",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/72627e85-c131-5b61-90da-3de3a05f1884', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-22T15:41:28Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': nan}"
+    },
+    {
+        "record_id": "30de4de2-4639-5e05-af58-b8cbd74bf19c",
+        "claim_indices": [
+            "2",
+            "6",
+            "7",
+            "9",
+            "12",
+            "15",
+            "19",
+            "21",
+            "23",
+            "25",
+            "28",
+            "29",
+            "30",
+            "33"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/30de4de2-4639-5e05-af58-b8cbd74bf19c', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-22T12:20:02Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Data, Enterpret, Chart, Filter, Quantify, Reporting', 'Reasons': nan}"
+    },
+    {
+        "record_id": "c59c0398-96a2-59db-913f-07ce5ff0a999",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/c59c0398-96a2-59db-913f-07ce5ff0a999', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-22T08:02:59Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': 'Alerts, Chat, Email, Login, Search', 'Reasons': nan}"
+    },
+    {
+        "record_id": "26f6bb5f-2a9f-5c5b-8335-dfeac2a3c1d1",
+        "claim_indices": [
+            "7"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/26f6bb5f-2a9f-5c5b-8335-dfeac2a3c1d1', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-22T07:03:51Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': 'Ai', 'Reasons': nan}"
+    },
+    {
+        "record_id": "7a28187d-acef-53fe-8148-271a7b65d0b5",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7a28187d-acef-53fe-8148-271a7b65d0b5', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-21T17:51:45Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Export, Keyword, Product Design, Taxonomy', 'Reasons': nan}"
+    },
+    {
+        "record_id": "74238842-ae89-5e0c-86ca-79af4f1ede6e",
+        "claim_indices": [
+            "5",
+            "6"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/74238842-ae89-5e0c-86ca-79af4f1ede6e', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-18T22:13:44Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Channel, Keyword, Reason', 'Reasons': nan}"
+    },
+    {
+        "record_id": "50fa3e06-7038-538d-a925-c15ba9671821",
+        "claim_indices": [
+            "3"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/50fa3e06-7038-538d-a925-c15ba9671821', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-04-18T22:08:18Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Channel', 'Reasons': nan}"
+    }
+]
