@@ -51,7 +51,7 @@ class ClaimIdentifier:
         indexed_messages_str = json.dumps(indexed_messages)
         
         claims_result = await self.process_message(indexed_messages_str)
-        return [index for index, is_claim in claims_result.items() if is_claim == 1]
+        return [index for index, is_claim in claims_result.items() if is_claim == 1], indexed_messages_str
 
     async def process_csv(self, input_csv: str, output_json: str):
         df = pd.read_csv(input_csv)
@@ -67,12 +67,13 @@ class ClaimIdentifier:
             record_id = row['ID']
             conversation = row['Conversation']
             metadata = row["Metadata"]
-            claim_indices = await self.identify_claims(conversation)
+            claim_indices,conversation_index = await self.identify_claims(conversation)
             
             result = {
                 "record_id": record_id,
                 "claim_indices": claim_indices,
-                "metadata": metadata
+                "metadata": metadata,
+                "conversation_index": conversation_index
             }
             results.append(result)
             
