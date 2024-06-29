@@ -23,5 +23,45 @@
             "2"
         ],
         "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7396e171-235d-5cd4-af82-7b8d4c70ce76', 'Source': 'Salesforce - Opportunity', 'Type': 'RecordTypeSurvey', 'CreatedAt': '2024-01-12T20:57:28Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Feedback', 'Reasons': 'Issue With Low Volume, Issue With Feedback Going Unnoticed'}"
+    },
+    {
+        "record_id": "e0e5cedb-2da1-5476-bfef-366eebc71656",
+        "claim_indices": [
+            "1"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/e0e5cedb-2da1-5476-bfef-366eebc71656', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T22:28:45Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': nan, 'Reasons': 'Issue With Decreased Feedback Volume From Sources'}",
+        "indexed_messages_str": "{\"1\": \"Agent: Mike McNasby jil It looks like the volume of feedback coming from Discord has dropped to zero. The channel for issues and bugs was the primary driver, just wanted to confirm if this was intentional?\", \"2\": \"\", \"3\": \"\"}"
+    },
+    {
+        "record_id": "69949ac0-6280-5a97-be88-315985fe2cbc",
+        "claim_indices": [
+            "4",
+            "8",
+            "12",
+            "14",
+            "15"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/69949ac0-6280-5a97-be88-315985fe2cbc', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-12T20:57:40Z', 'Language': 'eng', 'Record Sentiment': 'NEUTRAL', 'Tracked Keywords': 'Schedule', 'Reasons': nan}",
+        "indexed_messages_str": "{\"1\": \"User: Adding Daniela Gonz\\u00e1lez, Emma's ExecOps partner. Jack Divita, can you please share some context about the meeting you'd like to set up with me and Emma Auscher and Daniela Gonz\\u00e1lez can help you get it scheduled\", \"2\": \"\", \"3\": \"Agent: Hi Daniela Gonz\\u00e1lez nice to be connected with you :wave:\", \"4\": \"Full context: we have the renewal of our contract with Notion coming up at the end of February and we would like to schedule some time with Emma to:\", \"5\": \"\\u2022 Reflect on what we have achieved together through our partnership so far\", \"6\": \"\\u2022 Share some insights and make some plans for goals for the coming year\", \"7\": \"\\u2022 Walk through a proposal for the renewal contract\", \"8\": \"For each of the points above, we wouldn't need any prep work from Emma - we will come prepared with the data\", \"9\": \"Please let me know if you have any questions or we can share any additional context on the goal of the meeting\", \"10\": \"\", \"11\": \"User: Hi Jack Divita ! Nice to meet you\", \"12\": \"This is helpful! Could you please confirm your time zone and how much time you will need?\", \"13\": \"\", \"14\": \"Agent: We are in New York\", \"15\": \"I am sure Emma is busy, so we can make it work with 30 minutes\", \"16\": \"\", \"17\": \"\"}"
+    },
+    {
+        "record_id": "7396e171-235d-5cd4-af82-7b8d4c70ce76",
+        "claim_indices": [
+            "2"
+        ],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/7396e171-235d-5cd4-af82-7b8d4c70ce76', 'Source': 'Salesforce - Opportunity', 'Type': 'RecordTypeSurvey', 'CreatedAt': '2024-01-12T20:57:28Z', 'Language': 'eng', 'Record Sentiment': 'NEGATIVE', 'Tracked Keywords': 'Feedback', 'Reasons': 'Issue With Low Volume, Issue With Feedback Going Unnoticed'}",
+        "indexed_messages_str": "{\"1\": \"Closed Lost Notes\", \"2\": \"Not enough volume, not enough focus on feedback.\", \"3\": \"\", \"4\": \"\", \"5\": \"\"}"
+    },
+    {
+        "record_id": "296c633c-51fc-5f63-94fd-ef7661407f00",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/296c633c-51fc-5f63-94fd-ef7661407f00', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T21:09:45Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}",
+        "indexed_messages_str": "{\"1\": \"Agent: Sean Kanamori Jean Nguyenloc Here is the documentation for custom webhooks: <<STRICT_LINK>>\", \"2\": \"\", \"3\": \"User: Thank you!\", \"4\": \"\", \"5\": \"\"}"
+    },
+    {
+        "record_id": "0decbe49-58fd-5a1d-8c84-fc7d203c0283",
+        "claim_indices": [],
+        "metadata": "{'URL': 'https://dashboard.enterpret.com/enterpretinc/record/0decbe49-58fd-5a1d-8c84-fc7d203c0283', 'Source': 'Slack', 'Type': 'RecordTypeConversation', 'CreatedAt': '2024-01-11T19:35:29Z', 'Language': 'eng', 'Record Sentiment': nan, 'Tracked Keywords': nan, 'Reasons': nan}",
+        "indexed_messages_str": "{\"1\": \"Agent: Michael has joined the channel\", \"2\": \"\", \"3\": \"\"}"
     }
 ]
