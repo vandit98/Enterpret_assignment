@@ -52,3 +52,31 @@ https://github.com/vandit98/Enterpret_assignment/assets/91458535/d83d202b-aaf2-4
     }
 
 Note -  It is a bit different from the expected format. Because I wanted to return the index content where claims are being made.
+
+
+## Approach
+
+### Using Quantized Models from Hugging Face
+- **Model Choice:** I tried the quantized model from [Hugging Face](https://huggingface.co/TheBloke/Llama-2-7B-GGML/tree/main), aiming for a balance between size and performance.
+- **JSON Output Needs:** Since my project requires JSON output, I found the Mistral large model, which naturally outputs in JSON, to be promising.
+
+### Experimenting with llama.cpp and Ollama Models
+- **Model Size:** I tested various models like the 2B H2O-Danube2-1.8B, but even after reducing their size, they still needed over 3GB.
+- **Hardware Limits:** My laptop isn't powerful enough for heavy GPU tasks, making it hard to use large models.
+- **Fine-tuning:** I tried fine-tuning these models with my data, but the results weren't great.
+
+## Challenges
+
+### Model Size and Efficiency
+- Even the optimized models were too large, making it hard to run them on my limited hardware.
+- Models like the 2B H2O-Danube2-1.8B still used too much memory, even after shrinking them.
+
+### Fine-tuning and Output Format
+- Fine-tuning took a lot of effort and resources, and the results didn’t improve much.
+- Not all models could easily produce JSON output, which I need for my project.
+
+### Hardware Limitations
+- My laptop’s limited GPU power was a big obstacle, forcing me to compromise on model size and performance.
+
+### Project Requirements
+- Finding a model that fits my hardware, outputs JSON, and performs well was tough. The Mistral model seemed good but still required a lot of resources.
